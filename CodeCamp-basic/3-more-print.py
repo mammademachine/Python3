@@ -1,0 +1,5 @@
+print("There was a man named George, \nhe was 70 years old. \nHe really liked the name George,\nbut didn't like 70.")
+print("")
+print("")
+print("")
+print("")
